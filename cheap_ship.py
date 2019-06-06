@@ -41,11 +41,11 @@ def cheap_ship(weight):
   
 print(cheap_ship(41.5))
 	
-g = 25
-d = 50
-p = 125
+#g = 25
+#d = 50
+#p = 125
 
-print(g < (d and p))
+#print(g < (d and p))
 
 
 #print(calc_ship(5))
